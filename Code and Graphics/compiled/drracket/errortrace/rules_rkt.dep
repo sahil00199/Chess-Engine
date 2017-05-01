@@ -1,0 +1,1 @@
+("6.7" ("3b7c78d7fa535b55206031c387acaad36a7559bf" . "35e3f23da3b7dca8c5de1020a21ed6244d252b19") #"/home/sahil/Desktop/sem 2/cs_152/Project/project/final/Code and Graphics/building-images.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
